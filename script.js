@@ -41,8 +41,8 @@ console.log(catObject.age);
 
 var catArray = [
   {
-    "Katt",
-    "gray",
+    "Snow",
+    "white",
     2
   }
 ];
